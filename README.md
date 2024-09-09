@@ -45,6 +45,11 @@ also what i created is a dynamic and real time todoApp if you for example open m
 
 
 ## Project Overview
+
+1) You can add Tasks.
+2) if you finish a task = CheckBox = Task deleted
+3) if you did not finish task = CheckBox= False = Task NOT DONE
+4) 
 ***********NestJS
 
 NestJS is a progressive Node.js framework for building efficient and scalable server-side applications. It leverages TypeScript and is built around the concepts of modules, controllers, and providers.
