@@ -1,5 +1,9 @@
 ## What I did and Some Key Points :
 I’m not sure which language I should use, but since the subject of the test is in English, I will proceed in English. First of all, I want to express my gratitude for this opportunity. It has been a challenging and valuable experience for me and for my development. Thank you all.
+*************************************
+I encountered some challenges with NestJS, as it was my first time using it—I had only worked with Node.js before. I had to invest time in learning and understanding NestJS before I could effectively use it. Although I initially considered using familiar technologies like Angular, CSS, and JavaScript, I decided to embrace the opportunity to work with new tools and stick to the project's requirements.
+
+Additionally, what I developed is a dynamic and real-time Todo app. For example, if you open multiple browsers with the same Todo list and modify or delete a task in one browser, the changes will be reflected in the other browsers as well. I found this feature quite exciting, as it was a new experience for me and something I had never done before.
 
 Let’s get to the point:
 
@@ -54,10 +58,7 @@ NestJS is a progressive Node.js framework for building efficient and scalable se
 ++++Todo Resolver: Handles GraphQL queries and mutations, interacting with the database through the service layer.
 +++++Todo Service: Contains business logic for creating, reading, updating, and deleting Todo items.
 
-****************************************** ## Important ##*************************************
-I encountered some challenges with NestJS, as it was my first time using it—I had only worked with Node.js before. I had to invest time in learning and understanding NestJS before I could effectively use it. Although I initially considered using familiar technologies like Angular, CSS, and JavaScript, I decided to embrace the opportunity to work with new tools and stick to the project's requirements.
 
-Additionally, what I developed is a dynamic and real-time Todo app. For example, if you open multiple browsers with the same Todo list and modify or delete a task in one browser, the changes will be reflected in the other browsers as well. I found this feature quite exciting, as it was a new experience for me and something I had never done before.
 
 
 
